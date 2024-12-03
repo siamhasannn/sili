@@ -1,6 +1,6 @@
 {
   "name": "@siamhasannn/sili",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a sample cli ",
   "main": "index.js",
   "bin": {
