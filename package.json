@@ -4,7 +4,8 @@
   "description": "a sample cli ",
   "main": "index.js",
   "bin": {
-    "sili": "bin/sili.sh"
+    "sili": "bin/sili.sh",
+    "silijs": "bin/sili.js"
   },
   "repository": {
     "type": "git",
