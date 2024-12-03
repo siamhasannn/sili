@@ -1,0 +1,19 @@
+{
+  "name": "@siamhasannn/sili",
+  "version": "1.0.1",
+  "description": "a sample cli ",
+  "main": "index.js",
+  "bin": {
+    "sili": "bin/sili.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/siamhasannn/sili.git"
+  },
+  "author": "Siam Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siamhasannn/sili/issues"
+  },
+  "homepage": "https://github.com/siamhasannn/sili#readme"
+}
